@@ -1,6 +1,7 @@
 [submodule "dsdl"]
 	path = dsdl
-	url = https://github.com/dronecan/DSDL
+	url = https://github.com/Angel-Aerial-Systems/DSDL.git
+	branch = trio
 [submodule "libuavcan/dsdl_compiler/pyuavcan"]
 	path = libuavcan/dsdl_compiler/pyuavcan
 	url = https://github.com/dronecan/pydronecan
